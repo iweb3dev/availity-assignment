@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidateLISPcode", "ValidateLISPcode\ValidateLISPcode.csproj", "{8B639DEF-8E0A-42C7-9DFC-C402172C8A62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PopulateEnrollmentCSVFiles", "PopulateEnrollmentCSVFiles\PopulateEnrollmentCSVFiles.csproj", "{D1CF7FF9-FFF6-4267-9C2F-BFD4A2F41462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B639DEF-8E0A-42C7-9DFC-C402172C8A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B639DEF-8E0A-42C7-9DFC-C402172C8A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B639DEF-8E0A-42C7-9DFC-C402172C8A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B639DEF-8E0A-42C7-9DFC-C402172C8A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1CF7FF9-FFF6-4267-9C2F-BFD4A2F41462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CF7FF9-FFF6-4267-9C2F-BFD4A2F41462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CF7FF9-FFF6-4267-9C2F-BFD4A2F41462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CF7FF9-FFF6-4267-9C2F-BFD4A2F41462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FE2CB1F-230F-45A0-905F-56586FC28841}
+	EndGlobalSection
+EndGlobal
